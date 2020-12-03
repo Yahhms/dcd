@@ -1,0 +1,33 @@
+/*
+Theme Name: dcd_v0.1
+Author: yahhms
+*/
+
+body {
+    background: #f2f2f2;
+}
+
+.menu {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.menu-item a {
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+
+.menu-item a:hover {
+    background-color: silver;
+}
+
+#sidebarMenu {
+    background-color: #ffffff;
+}
+
+#Content {
+    min-height: 100vh;
+}
